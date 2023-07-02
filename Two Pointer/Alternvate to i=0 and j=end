@@ -1,5 +1,5 @@
 
-Same as i=0 and j= s.length-1
 
+-> Same as i=0 and j= s.length-1
 
-s[i] = s[n - 1 - i]
+-> s[i] = s[n - 1 - i]
